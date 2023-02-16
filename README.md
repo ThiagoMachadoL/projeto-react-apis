@@ -33,4 +33,4 @@ Este projeto é um site de pokémons que utiliza a Poke API como fonte de dados.
 
 Esse projeto foi desenvolvido como parte do módulo 2 do curso de Frontend da Labenu. Sinta-se livre para utilizá-lo como referência ou para continuar seu desenvolvimento. Em caso de dúvidas, fique à vontade para entrar em contato comigo.
 
-
+link do projeto: projeto-pokedex-br-df.surge.sh
